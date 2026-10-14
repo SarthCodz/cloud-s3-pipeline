@@ -1,0 +1,12 @@
+# Environment variables and secrets
+.env
+
+# Python cache and build files
+__pycache__/
+*.pyc
+venv/
+.DS_Store
+
+# Temporary local data files
+temp_input.csv
+temp_output.csv
